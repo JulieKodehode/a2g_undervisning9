@@ -1,5 +1,10 @@
 # Template Guide
 
+## Idemyldring til prosjektet:
+- Prosjektet skal være en artikkel-stil
+- Hvilke HTML elements vil jeg ta i bruk?
+- Hvilke CSS properties vil jeg ta i bruk?
+
 ## HTML
 
 - Header: Logo, søkfelt, innlogging og navigasjon.

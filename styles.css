@@ -21,8 +21,26 @@ ul {
   padding: 0 10px;
 }
 
-main {
+section {
   height: 100vh;
+}
+
+.firstSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.secondSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.thirdSection {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 footer {
